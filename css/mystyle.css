@@ -33,7 +33,7 @@ li {
 }
 
 li a, .dropbtn {
-  display: block;
+  display: inline-block;
   /* a 요소와 .dropbtn(이것도 a 요소임)은 기본적으로 display: inline 요소임
      inline 요소는 block 요소와 달리 콘텐츠의 크기만큼만 영역을 차지함
      당연히 width, height, padding, margin 적용하지 못함. 
